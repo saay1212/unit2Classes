@@ -35,7 +35,9 @@ public class TargetComponent extends JComponent
      */
     public int sampleMethod(int y)
     {
-        // put your code here
+        int redtwe=12 
+        int redtwa=int redtwe
+        
         return x+y;
     }
 

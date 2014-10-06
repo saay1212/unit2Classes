@@ -4,8 +4,10 @@ public class TargetViewer
     {
         JFrame frame=new JFrame();
         frame.setSize*(400,500);
-        frame.setTitle("The Target");
+        frame.setTitle("The Target")
+        ;
+        frame.
+        +-
         
-        frame.set 
          
         

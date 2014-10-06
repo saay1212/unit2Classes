@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+C:\PROGRA~1\Java\JDK17~1.0_6\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.8.2.jar;\\NNHSSRV2.hs.sd203.org\sramanathan$\GitHub\unit2Classes\CityScape
+-d
+\\NNHSSRV2.hs.sd203.org\sramanathan$\GitHub\unit2Classes\CityScape\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+\\NNHSSRV2.hs.sd203.org\sramanathan$\GitHub\unit2Classes\CityScape\CityscapeComponents.java
+<---- end of javadoc command ---->
+Loading source file \\NNHSSRV2.hs.sd203.org\sramanathan$\GitHub\unit2Classes\CityScape\CityscapeComponents.java...
+\\NNHSSRV2.hs.sd203.org\sramanathan$\GitHub\unit2Classes\CityScape\CityscapeComponents.java:6: error: reached end of file while parsing
+public class CityscapeComponents
+                                ^
+1 error
