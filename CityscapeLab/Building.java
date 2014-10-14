@@ -26,8 +26,11 @@ public class Building
         Rectangle window7=new Rectangle(xLeft+20,yTop+260,50,50);
         Rectangle window8=new Rectangle(xLeft+20,yTop+270,50,50);
         Rectangle door=new Rectangle(xLeft+25,350,40,60);
-        
+        Color beast=new Color(255,130,20);
+        Color beast1=new Color(82,255,246);
+        g2.setColor(beast1);
         g2.draw(body);
+        g2.fill(body);
         g2.setColor(Color.BLUE);
         g2.draw(window1);
         g2.fill(window1);
@@ -46,7 +49,7 @@ public class Building
         g2.fill(window6);
         g2.draw(window8);
         g2.fill(window8);
-        g2.setColor(Color.BLACK);
+        g2.setColor(beast);
         g2.draw(door);
         g2.fill(door);
         ;}}
